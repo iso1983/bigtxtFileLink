@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "userName": "John",
+      "age": 35
+    },
+    {
+      "userName": "Adam",
+      "age": 25
+    },
+    {
+      "userName": "Sarah",
+      "age": 20
+    }
+  ],
+  "courses": [
+    { "courseName": "IT" },
+    { "courseName": "Cooking" },
+    { "courseName": "Accounting" }
+  ]
+}
